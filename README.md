@@ -12,7 +12,7 @@ Para garantir uma boa experiência na comunidade, consulte os ficheiros abaixo:
 
 * 🚀 **[Guia de Contribuição](./CONTRIBUTING.md)**: Aprenda o passo a passo para enviar Pull Requests e reportar bugs.
 * ⚖️ **[Código de Conduta](./CODE_OF_CONDUCT.md)**: Nossas regras de convivência para manter o ambiente saudável.
-* 💬 **[Aba de Discussões]https://github.com/Los-Trouxas-Dev-Code-Coffee/inicio/discussions/1)**: O local oficial para trocar ideias, tirar dúvidas e fazer anúncios.
+* 💬 **[Aba de Discussões](https://github.com/Los-Trouxas-Dev-Code-Coffee/inicio/discussions/1)**: O local oficial para trocar ideias, tirar dúvidas e fazer anúncios.
 
 ## 🚀 Como começar a colaborar?
 1. **Ative as Discussões**: Se você é o admin, certifique-se de ativar a aba em `Settings > General > Features > Discussions`.
